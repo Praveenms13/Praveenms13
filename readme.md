@@ -41,7 +41,7 @@ const Praveen = {
 
 <h3 align="left"> ~ Tools and Services used frequently :</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=linux,git,github,gitlab,vscode,idea&perline=3&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,git,github,gitlab,vscode,idea,docker,kubernetes,arduino,mysql&perline=5&theme=light)](https://skillicons.dev)
 
 <h3 align="left"> ~ Connect me with :</h3>
 
