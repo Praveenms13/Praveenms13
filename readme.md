@@ -17,7 +17,7 @@
 - 🔭 I’m currently working on **Backend** :running:
 - 🌱 Held up with **Full Stack Web Engineering and Linux Software Developement** :boom:
 - ⚡ Solo Full Stack Developer :v:
-- <3 See more at [Me](https://praveenms13.github.io/Portfolio/) :boom:
+- <3 See more at [Me](https://praveen.selfmade.one) :boom:
 - 📫 Contact me @ **mspraveenkumar77@gmail.com** :v:
 
 ## Who Am I &nbsp;<img alt="" width="30" src="https://www.emoji.com/wp-content/uploads/filebase/3d%20icons/emoji-3d%20icons-glossy-3d-icons-%25F0%259F%2598%258E-%2509smiling-face-with-sunglasses-72dpi-forPersonalUseOnly.gif" />
