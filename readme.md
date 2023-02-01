@@ -38,7 +38,7 @@ const Praveen = {
  - [CGPA/SGPA Calculator - Online CGPA/SGPA Calculator](https://mycgpa.selfmade.one/)
  - [On Duty Apply - Online Portal](https://srmod.selfmade.one/)
  - [Photogram App - Social Media App](https://photogramapp.selfmade.one/)
- - [API Based Notes App(REST API Protocol, Try it with Postman)](https://apis.selfmade.one/](https://apis.selfmade.one/api/about)
+ - [API Based Notes App(REST API Protocol, Try it with Postman)](https://photogramapp.selfmade.one/)
 
 
 
