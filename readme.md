@@ -17,6 +17,17 @@
 - ⚡ Solo Full Stack Developer :v:
 - <3 See more at [Me](https://praveenms13.github.io/Portfolio/) :boom:
 - 📫 Contact me @ **mspraveenkumar77@gmail.com** :v:
+     
+     
+ ## Projects :
+
+ - [Portfolio](https://praveen.selfmade.one/)
+ - [CGPA/SGPA Calculator - Online CGPA/SGPA Calculator](https://mycgpa.selfmade.one/)
+ - [On Duty Apply - Online Portal](https://srmod.selfmade.one/)
+ - [SRM Notes - Notes for all Dept. Available Here](https://srmnotes.live)
+ - [Photogram App - Social Media App](https://photogramapp.selfmade.one/)
+ - [API Based Notes App(REST API Protocol, Try it with Postman)](https://apis.selfmade.one/api/about)
+     
 
 ## Who Am I &nbsp;<img alt="" width="30" src="https://www.emoji.com/wp-content/uploads/filebase/3d%20icons/emoji-3d%20icons-glossy-3d-icons-%25F0%259F%2598%258E-%2509smiling-face-with-sunglasses-72dpi-forPersonalUseOnly.gif" />
 
@@ -30,19 +41,6 @@ const Praveen = {
   nickname: "MS" ?? "Praveen",
 };
 ```
-
-
-## Projects :
-
- - [Portfolio](https://praveen.selfmade.one/)
- - [CGPA/SGPA Calculator - Online CGPA/SGPA Calculator](https://mycgpa.selfmade.one/)
- - [On Duty Apply - Online Portal](https://srmod.selfmade.one/)
- - [SRM Notes - Notes for all Dept. Available Here](https://srmnotes.live)
- - [Photogram App - Social Media App](https://photogramapp.selfmade.one/)
- - [API Based Notes App(REST API Protocol, Try it with Postman)](https://apis.selfmade.one/api/about)
-
-
-
 
 <h3 align="left"> ~ Languages I'm familiar with :</h3>
 
