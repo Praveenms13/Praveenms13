@@ -28,12 +28,13 @@
  - [On Duty Apply - Online Portal](https://srmod.selfmade.one/)
  - [SRM Notes - Notes for all Dept. Available Here](https://srmnotes.live)
      
- ## PIP Packages
+ ## PIP Packages :
  - [Media Data Tool - pip install mediadata](https://pypi.org/project/mediadata/1.0.4/)
      
 
 ## Who Am I &nbsp;<img alt="" width="30" src="https://www.emoji.com/wp-content/uploads/filebase/3d%20icons/emoji-3d%20icons-glossy-3d-icons-%25F0%259F%2598%258E-%2509smiling-face-with-sunglasses-72dpi-forPersonalUseOnly.gif" />
 
+<!--
 ```js
 const Praveen = {
   summary: "I build websites & web apps with frontend as well as backend",
@@ -43,7 +44,7 @@ const Praveen = {
   type_check: true && "~ 𝚖𝚘𝚗𝚘𝚜𝚙𝚊𝚌𝚎 𝚛𝚞𝚕𝚎𝚜 ~",
   nickname: "MS" ?? "Praveen",
 };
-```
+```-->
 
 <h3 align="left"> ~ Languages I'm familiar with :</h3>
 
