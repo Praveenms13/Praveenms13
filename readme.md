@@ -29,7 +29,7 @@
  - [SRM Notes - Notes for all Dept. Available Here](https://srmnotes.live)
      
  ## PIP Packages :
- - [Media Data Tool - pip install mediadata](https://pypi.org/project/mediadata/1.0.4/)
+ - [Media Data Tool - pip install mediadata](https://pypi.org/project/mediadata/1.0.5/)
      
 
 ## Who Am I &nbsp;<img alt="" width="30" src="https://www.emoji.com/wp-content/uploads/filebase/3d%20icons/emoji-3d%20icons-glossy-3d-icons-%25F0%259F%2598%258E-%2509smiling-face-with-sunglasses-72dpi-forPersonalUseOnly.gif" />
