@@ -54,7 +54,7 @@ const Praveen = {
 
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,laravel&theme=light)](https://skillicons.dev)
 
-<h3 align="left"> ~ Tools and Services used frequently :</h3>
+<h3 align="left"> ~ Tools, Services and Environments used frequently :</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=linux,git,github,gitlab,vscode,idea,docker,kubernetes,arduino,mysql&perline=5&theme=light)](https://skillicons.dev)
 
