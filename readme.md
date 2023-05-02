@@ -15,7 +15,7 @@
 - 🔭 I’m currently working on **Backend** :running:
 - 🌱 Held up with **Full Stack Web Engineering and Linux Software Developement** :boom:
 - ⚡ Solo Full Stack Developer :v:
-- <3 See more at [Me](https://praveenms13.github.io/Portfolio/) :boom:
+- <3 See more at [Me](https://www.praveenms.site) :boom:
 - 📫 Contact me @ **mspraveenkumar77@gmail.com** :v:
      
      
