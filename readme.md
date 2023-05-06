@@ -19,17 +19,14 @@
 - 📫 Contact me @ **mspraveenkumar77@gmail.com** :v:
      
      
- ## Projects :
-
- - [Portfolio](https://praveen.selfmade.one/)
- - [CGPA/SGPA Calculator - Online CGPA/SGPA Calculator](https://mycgpa.selfmade.one/)
- - [Photogram App - Social Media App](https://photogramapp.selfmade.one/)
- - [API Based Notes App(REST API Protocol, Try it with Postman)](https://notesapp.selfmade.one/)
- - [On Duty Apply - Online Portal](https://srmod.selfmade.one/)
- - [SRM Notes - Notes for all Dept. Available Here](https://srmnotes.live)
- 
+ ## My Missions :
+ - Portfolio - www.praveenms.site
+ - CGPA/SGPA Calculator, Online CGPA/SGPA Calculator - https://mycgpa.praveenms.site
+ - Photogram App, An Social Media App - photogram.praveenms.site
+ - API Based Notes App(REST API Protocol, Try it with Postman - https://apis.selfmade.one/
+ - OD Apply Online Portal - https://srmod.selfmade.one
+ - SRM Notes - Notes for all Dept. Available Here - https://srmnotes.live
      
- - PORTFOLIO =>
  ## PIP Packages :
  - [Media Data Tool - pip install mediadata](https://pypi.org/project/mediadata/1.0.7/)
      
