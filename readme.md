@@ -23,7 +23,8 @@
  - Portfolio - www.praveenms.site
  - CGPA/SGPA Calculator, Online CGPA/SGPA Calculator - https://mycgpa.praveenms.site
  - Photogram App, An Social Media App - https://photogram.praveenms.site
- - TCP Chat Server - https://chat.praveenms.site
+ - TCP Chat Server using stream sockets - https://chat.praveenms.site
+ - Private WebServer Dashboard with various features - https://server.praveenms.site
  - Grunt - Production Level Project Architecture - https://grunt.praveenms.site
  - Certificate Generator - https://praveenms13.github.io/Certificate-generator-/
  - API Based Notes App(REST API Protocol, Try it with Postman - https://apis.selfmade.one/
