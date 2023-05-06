@@ -52,7 +52,7 @@ const Praveen = {
 
 <h3 align="left"> ~ Frameworks :</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,laravel&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,bootstrap,tailwind,laravel&theme=light)](https://skillicons.dev)
 
 <h3 align="left"> ~ Tools, Services and Environments used frequently :</h3>
 
