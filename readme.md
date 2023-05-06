@@ -56,7 +56,7 @@ const Praveen = {
 
 <h3 align="left"> ~ Tools, Services and Environments used frequently :</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=linux,postman,heroku,git,github,gitlab,githubactions,mysql,mongodb,graphql,rabbitmq,vscode,idea,docker,kubernetes,arduino&perline=5&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,postman,heroku,git,github,gitlab,githubactions,mysql,mongodb,graphql,rabbitmq,vscode,idea,docker,arduino&perline=5&theme=light)](https://skillicons.dev)
 
 <h3 align="left"> ~ Connect me with :</h3>
 
