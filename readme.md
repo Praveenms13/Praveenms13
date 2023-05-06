@@ -29,7 +29,7 @@
  - [SRM Notes - Notes for all Dept. Available Here](https://srmnotes.live)
  
      
- - PORTFOLIO ->
+ - PORTFOLIO =>
  ## PIP Packages :
  - [Media Data Tool - pip install mediadata](https://pypi.org/project/mediadata/1.0.7/)
      
