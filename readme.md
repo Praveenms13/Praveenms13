@@ -62,9 +62,9 @@ const Praveen = {
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,ts,jquery,bootstrap,sass,tailwind,laravel&theme=light)](https://skillicons.dev)
 
-<h3 align="left"> ~ Tools, Services and Environments used frequently :</h3>
+<h3 align="left"> ~ Tools, Services, Environments and Template Engines used frequently :</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=linux,postman,heroku,git,github,gitlab,githubactions,mysql,mongodb,graphql,rabbitmq,vscode,idea,docker,arduino&perline=5&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,postman,heroku,git,github,gitlab,githubactions,mysql,mongodb,pug,graphql,rabbitmq,vscode,idea,docker,arduino&perline=5&theme=light)](https://skillicons.dev)
 
 <h3 align="left"> ~ Connect me with :</h3>
 
