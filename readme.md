@@ -22,22 +22,22 @@
  ## My Missions :
  - Portfolio - www.praveenms.site
  - CGPA/SGPA Calculator, Online CGPA/SGPA Calculator - https://mycgpa.praveenms.site
- - Photogram App, An Social Media App - https://photogram.praveenms.site
- - TCP Chat Server using stream sockets - https://chat.praveenms.site
- - Private WebServer Dashboard with various features - https://server.praveenms.site
+ - Photogram App, An Social Media App - https://photogram.praveenms.site - Frontend Under Developement
+ - TCP Chat Server using stream sockets - https://chat.praveenms.site - Frontend Under Developement
+ - Private WebServer Dashboard with various features - https://server.praveenms.site - Frontend Under Developement
  - Grunt - Production Level Project Architecture - https://grunt.praveenms.site
  - Certificate Generator - https://praveenms13.github.io/Certificate-generator-/
- - API Based Notes App(REST API Protocol, Try it with Postman - https://apis.selfmade.one/
+ - API Based Notes App(REST API Protocol, Try it with Postman - https://apis.selfmade.one/ - Frontend Under Developement
      
  ## Team Missions :
- - OD Apply Online Portal - https://srmod.selfmade.one
- - SRM Notes - Notes for all Dept. Available Here - https://srmnotes.live
+ - OD Apply Online Portal - https://srmod.selfmade.one - Completed But not deployed
+ - SRM Notes - Notes for all Dept. Available Here - https://srmnotes.live - Under Developement 
      
  ## API Url's Try it with Postman 
  - Rest API Framework Base Url (Own Implementation from Scratch) - https://apis.selfmade.one/ 
      
  ## PIP Packages :
- - [Media Data Tool - pip install mediadata](https://pypi.org/project/mediadata/1.0.7/)
+ - [Media Data Tool - pip install mediadata](https://pypi.org/project/mediadata/1.0.7/) - Completed and released
      
 
 ## Who Am I &nbsp;<img alt="" width="30" src="https://www.emoji.com/wp-content/uploads/filebase/3d%20icons/emoji-3d%20icons-glossy-3d-icons-%25F0%259F%2598%258E-%2509smiling-face-with-sunglasses-72dpi-forPersonalUseOnly.gif" />
