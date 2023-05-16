@@ -72,7 +72,7 @@ const Praveen = {
   <a href="https://www.instagram.com/praveen.ms_13/" >
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-  <a href="https://www.linkedin.com/in/m-s-praveen-kumar-9036671bb/">
+  <a href="https://www.linkedin.com/in/m-s-praveen-kumar-2243b622a/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://discord.com/channels/@me">
