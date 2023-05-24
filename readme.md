@@ -22,7 +22,7 @@
  ## My Missions :
  - Portfolio - www.praveenms.site
  - CGPA/SGPA Calculator, Online CGPA/SGPA Calculator - https://mycgpa.praveenms.site
- - Photogram App, An Social Media App - https://photogram.praveenms.site - Frontend Under Developement
+ - Photogram App, An Social Media App - https://photogram.praveenms.site - Full Stack Project Under Developement
  - TCP Chat Server using stream sockets - https://chat.praveenms.site - Frontend Under Developement
  - Private WebServer Dashboard with various features - https://server.praveenms.site - Frontend Under Developement
  - Grunt - Production Level Project Architecture - https://grunt.praveenms.site
