@@ -19,15 +19,14 @@
 - 📫 Contact me @ **mspraveenkumar77@gmail.com** :v:
      
      
- ## My Missions :
+ ## Web Missions :
  - Portfolio - www.praveenms.site
+ - One Page Portfolio - rootwitch.praveenms.site
  - CGPA/SGPA Calculator, Online CGPA/SGPA Calculator - https://mycgpa.praveenms.site
  - Photogram App, An Social Media App - https://photogram.praveenms.site - Full Stack Project Under Developement
- - TCP Chat Server using stream sockets - https://chat.praveenms.site - Frontend Under Developement
- - Private WebServer Dashboard with various features - https://server.praveenms.site - Frontend Under Developement
+ - Socket WebServer with VPN, Firewall (HandCoded)- https://server.praveenms.site - Under Developement
  - Grunt - Production Level Project Architecture - https://grunt.praveenms.site
  - Certificate Generator - https://praveenms13.github.io/Certificate-generator-/
- - API Based Notes App(REST API Protocol, Try it with Postman - https://apis.selfmade.one/ - Frontend Under Developement
      
  ## Team Missions :
  - OD Apply Online Portal - https://srmod.selfmade.one - Completed But not deployed
