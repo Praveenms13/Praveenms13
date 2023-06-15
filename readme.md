@@ -20,13 +20,14 @@
      
      
  ## Web Missions :
- - Portfolio - www.praveenms.site
- - One Page Portfolio - rootwitch.praveenms.site
- - CGPA/SGPA Calculator, Online CGPA/SGPA Calculator - https://mycgpa.praveenms.site
- - Photogram App, An Social Media App - https://photogram.praveenms.site - Full Stack Project Under Developement
- - Socket WebServer with VPN, Firewall (HandCoded)- https://server.praveenms.site - Under Developement
- - Grunt - Production Level Project Architecture - https://grunt.praveenms.site
- - Certificate Generator - https://praveenms13.github.io/Certificate-generator-/
+ - Portfolio - Click [Here](www.praveenms.site) to view the Site
+ - One Page Portfolio - Click [Here](rootwitch.praveenms.site) to view the Site
+ - CGPA/SGPA Calculator, Online CGPA/SGPA Calculator - Click [Here](https://mycgpa.praveenms.site) to view the Site
+ - Photogram App, An Social Media App - Click [Here](https://photogram.praveenms.site) to view the Site - Full Stack Project Under Developement
+ - Socket WebServer with VPN, Firewall (HandCoded) - Click [Here](https://server.praveenms.site) to view the Site - Under Developement
+ - Grunt - Production Level Project Architecture - Click [Here](https://grunt.praveenms.site) to view the Site
+ - Certificate Generator - Click [Here](https://praveenms13.github.io/Certificate-generator/) to view the Site
+
      
 ## API Own Implementation :
 - MERN Authentication API - Click [Here](https://github.com/Praveenms13/MERN-Authentication-API) to view the API
