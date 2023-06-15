@@ -20,8 +20,8 @@
      
      
  ## Web Missions :
- - Portfolio - Click [Here](www.praveenms.site) to view the Site
- - One Page Portfolio - Click [Here](rootwitch.praveenms.site) to view the Site
+ - Portfolio - Click [Here](https://www.praveenms.site) to view the Site
+ - One Page Portfolio - Click [Here](https://rootwitch.praveenms.site) to view the Site
  - CGPA/SGPA Calculator, Online CGPA/SGPA Calculator - Click [Here](https://mycgpa.praveenms.site) to view the Site
  - Photogram App, An Social Media App - Click [Here](https://photogram.praveenms.site) to view the Site - Full Stack Project Under Developement
  - Socket WebServer with VPN, Firewall (HandCoded) - Click [Here](https://server.praveenms.site) to view the Site - Under Developement
