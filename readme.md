@@ -29,9 +29,10 @@
  - Certificate Generator - https://praveenms13.github.io/Certificate-generator-/
      
 ## API Own Implementation :
-- MERN Authentication API - https://github.com/Praveenms13/MERN-Authentication-API
+- MERN Authentication API - Click [Here](https://github.com/Praveenms13/MERN-Authentication-API) to view the project
 - REST API For Authentication as command line notes app - https://github.com/Praveenms13/REST-API-Authentication-Notes-App/settings
-  Test the API With the endpoints available in the repo
+  
+Test the API With the endpoints available in the repo
      
  ## PIP Packages :
  - [Media Data Tool - pip install mediadata](https://pypi.org/project/mediadata/1.0.7/) - Completed and released
