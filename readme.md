@@ -29,8 +29,8 @@
  - Certificate Generator - https://praveenms13.github.io/Certificate-generator-/
      
 ## API Own Implementation :
-- MERN Authentication API - Click [Here](https://github.com/Praveenms13/MERN-Authentication-API) to view the project
-- REST API For Authentication as command line notes app - https://github.com/Praveenms13/REST-API-Authentication-Notes-App/settings
+- MERN Authentication API - Click [Here](https://github.com/Praveenms13/MERN-Authentication-API) to view the API
+- REST API For Authentication as command line notes app - Click [Here](https://github.com/Praveenms13/REST-API-Authentication-Notes-App) to view the API
   
 Test the API With the endpoints available in the repo
      
