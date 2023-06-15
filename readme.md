@@ -28,12 +28,10 @@
  - Grunt - Production Level Project Architecture - https://grunt.praveenms.site
  - Certificate Generator - https://praveenms13.github.io/Certificate-generator-/
      
- ## Team Missions :
- - OD Apply Online Portal - https://srmod.selfmade.one - Completed But not deployed
- - SRM Notes - Notes for all Dept. Available Here - https://srmnotes.live - Under Developement 
-     
- ## API Url's Try it with Postman 
- - Rest API Framework Base Url (Own Implementation from Scratch) - https://apis.selfmade.one/ 
+## API Own Implementation :
+- MERN Authentication API - https://github.com/Praveenms13/MERN-Authentication-API
+- REST API For Authentication as command line notes app - https://github.com/Praveenms13/REST-API-Authentication-Notes-App/settings
+  Test the API With the endpoints available in the repo
      
  ## PIP Packages :
  - [Media Data Tool - pip install mediadata](https://pypi.org/project/mediadata/1.0.7/) - Completed and released
