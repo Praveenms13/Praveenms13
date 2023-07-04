@@ -91,13 +91,7 @@ const Praveen = {
 | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Praveenms13&theme=radical)](https://github.com/Praveenms13) | 
 
 
-[[![Praveen's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Praveenms13&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}&theme={theme_name})http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Praveenms13&theme=2077 
 
 
 
-[[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenms13&layout=compact&theme=radical)](https://github.com/Praveenms13)](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Praveenms13&theme=2077&utcOffset={utcOffset}) 
-
-
-
-http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username={username}&theme={theme_name}&utcOffset={utcOffset}
-
+[![Praveen's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Praveenms13&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
