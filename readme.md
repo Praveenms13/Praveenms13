@@ -8,18 +8,7 @@
 [![Typing SVG](<https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%246333F5&vCenter=true&lines=A+Undergraduate+B.Tech+CSE+Student,;Studying+at+SRM+University(VDP).;A+Web+and+Backend+Developer.;I’ll+never+be+perfect,+but+I+can+be+better.>)](https://git.io/typing-svg)
 
 </h1>
-
-<img width="50" height="50" src="https://img.icons8.com/ios-filled/50/api.png" alt="api"/>
-
-
-- 😄 Call me **MS** :star:
-- 🔭 Love to work on **Backend** :blush:
-- ⚡ Ambitious thought on **linux** and **Api's** :eyes:
-- 🔭 I’m currently working on **Backend** :running:
-- 🌱 Held up with **Full Stack Web Engineering and Linux Software Developement** :boom:
-- ⚡ Solo Full Stack Developer :v:
-- <3 See more at [Me](https://www.praveenms.site) :boom:
-- 📫 Contact me @ **mspraveenkumar77@gmail.com** :v:
+## Certifications && Skilled IN
      
      
  ## Web Missions :
