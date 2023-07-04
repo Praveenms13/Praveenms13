@@ -82,7 +82,4 @@ const Praveen = {
   </a>
 </p>
 
-
-<a href="https://github.com/Praveenms13/github-stats">
-<img src="https://github.com/Praveenms13/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-</a>
+![Praveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Praveenms13&theme=dark&show_icons=true)
