@@ -8,7 +8,14 @@
 [![Typing SVG](<https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%246333F5&vCenter=true&lines=A+Undergraduate+B.Tech+CSE+Student,;Studying+at+SRM+University(VDP).;A+Web+and+Backend+Developer.;I’ll+never+be+perfect,+but+I+can+be+better.>)](https://git.io/typing-svg)
 
 </h1>
+
+
+
 ## Certifications && Skilled IN
+- <img width="64" height="64" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-full-stack-web-development-flaticons-lineal-color-flat-icons-2.png" alt="external-full-stack-web-development-flaticons-lineal-color-flat-icons-2"/>
+
+Full Stack Web Engineering
+
      
      
  ## Web Missions :
