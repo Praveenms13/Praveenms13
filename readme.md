@@ -86,6 +86,13 @@ const Praveen = {
 
 
 
-http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Praveenms13&theme=vue
+![Praveen's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Praveenms13&theme=vue)
 
-http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username={username}&theme={theme_name}&utcOffset={utcOffset}
+![Praveen's Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Praveenms13&theme=vue&utcOffset={utcOffset})
+
+
+
+
+
+![Praveen's Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username={username}&theme={theme_name}&exclude={exclude})
+
