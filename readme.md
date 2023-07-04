@@ -82,17 +82,11 @@ const Praveen = {
   </a>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Praveenms13&show_icons=true&theme=neon)
+| GitHub Stats                                                                                           | Top Languages                                                                                            |
+|--------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
+| ![Praveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Praveenms13&show_icons=true&theme=neon) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenms13&layout=compact&theme=neon) |
 
+| GitHub Stats                                                                                                   | Profile Details                                                                                               |
+|---------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
+| ![Praveen's Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Praveenms13&theme=2077&utcOffset={utcOffset}) | ![Praveen's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Praveenms13&theme=2077) |
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenms13&layout=compact)
-
-
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Praveenms13)](https://github.com/Praveenms13/github-readme-stats)
-
-
-![Praveen's Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Praveenms13&theme=2077&utcOffset={utcOffset})
-
-
-
-![Praveen's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Praveenms13&theme=2077)
