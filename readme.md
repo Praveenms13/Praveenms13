@@ -6,14 +6,16 @@
 <h1 align="center"> Hi! <img  src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" alt="chan" width="30px" height="30px"> I'm M S Praveen Kumar !
 
 [![Typing SVG](<https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%246333F5&vCenter=true&lines=A+Undergraduate+B.Tech+CSE+Student,;Studying+at+SRM+University(VDP).;A+Web+and+Backend+Developer.;I’ll+never+be+perfect,+but+I+can+be+better.>)](https://git.io/typing-svg)
-
 </h1>
 
-
-
 ## Certifications && Skilled IN
-- <img width="40" height="40" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-full-stack-web-development-flaticons-lineal-color-flat-icons-2.png" alt="external-full-stack-web-development-flaticons-lineal-color-flat-icons-2"/>&nbsp;Full Stack Web Engineering
-
+- Full Stack Web Engineering
+- Advanced Socket Programming
+- API's Application Interface Programming
+- Linux Command Line Tool Developement with Bash & Python
+- Bug Hunting With Most Famous Web vulnerabilities
+- NodeJS - The Complete Guide
+- The Bits & Bytes of Computer Networking
      
      
  ## Web Missions :
