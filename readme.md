@@ -86,6 +86,5 @@ const Praveen = {
 
 
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Praveenms13&theme=dark&show_icons=true)
+https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Praveenms13&theme=vue
 
