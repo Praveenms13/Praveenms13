@@ -12,7 +12,7 @@
 
 
 ## Certifications && Skilled IN
-- <img width="64" height="64" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-full-stack-web-development-flaticons-lineal-color-flat-icons-2.png" alt="external-full-stack-web-development-flaticons-lineal-color-flat-icons-2"/>Full Stack Web Engineering
+- <img width="20" height="20" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-full-stack-web-development-flaticons-lineal-color-flat-icons-2.png" alt="external-full-stack-web-development-flaticons-lineal-color-flat-icons-2"/>Full Stack Web Engineering
 
      
      
