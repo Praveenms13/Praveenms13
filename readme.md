@@ -14,7 +14,8 @@
 - API's Application Interface Programming
 - Linux Command Line Tool Developement with Bash & Python
 - Bug Hunting With Most Famous Web vulnerabilities
-- NodeJS - The Complete Guide
+- Exploit Tool Developement
+- MERN Stack - The Complete Guide
 - The Bits & Bytes of Computer Networking
      
      
