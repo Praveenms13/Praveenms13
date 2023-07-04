@@ -82,18 +82,8 @@ const Praveen = {
   </a>
 </p>
 
-| My Stats :sparkling_heart:                                                                                               | Most Played Languages:notes::computer:                                                                                                                  |
-| ------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Praveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Praveenms13&show_icons=true&theme=radical) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenms13&layout=compact&theme=radical)](https://github.com/Praveenms13) |
 
-| Github Streak"s :sparkles: 
-| ------------------------------------------------------------------------------------------------------------------------------------ |
-| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Praveenms13&theme=radical)](https://github.com/Praveenms13) | 
-
-
-[![Praveen's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Praveenms13&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
+![](https://raw.githubusercontent.com/Praveenms13/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
 
 <a href="https://github.com/jstrieb/github-stats">
