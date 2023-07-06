@@ -9,6 +9,38 @@
 </h1>
 
 
+
+<h3 align="left"> ~ Languages I'm familiar with :</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,html,css,javascript,php&theme=light)](https://skillicons.dev)
+
+<h3 align="left"> ~ Frameworks :</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,vite,jquery,bootstrap,sass,tailwind&theme=light)](https://skillicons.dev)
+
+<h3 align="left"> ~ Tools, Services, Environments and Template Engines used frequently :</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=linux,postman,heroku,git,github,gitlab,githubactions,mysql,mongodb,pug,graphql,rabbitmq,redis,vscode,idea,docker,arduino&theme=light)](https://skillicons.dev)
+
+<h3 align="left"> ~ Connect me with :</h3>
+
+<p align="left">
+  <a href="https://www.instagram.com/praveen.ms_13/" >
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/m-s-praveen-kumar-2243b622a/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://discord.com/channels/@me">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
+  <a href="https://stackoverflow.com/users/18029902/praveen-ms">
+    <img src="https://skillicons.dev/icons?i=stackoverflow" />
+  </a>
+</p>
+
+
+
 | GitHub Stats                                                                                           | Top Languages                                                                                            |
 |--------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
 | ![Praveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Praveenms13&show_icons=true&theme=neon) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenms13&layout=compact&theme=neon) |
@@ -48,49 +80,6 @@ Test the API With the endpoints available in the repo
      
  ## PIP Packages :
  - [Media Data Tool - pip install mediadata](https://pypi.org/project/mediadata/1.0.7/) - Completed and released
-     
-
-## Who Am I &nbsp;<img alt="" width="30" src="https://www.emoji.com/wp-content/uploads/filebase/3d%20icons/emoji-3d%20icons-glossy-3d-icons-%25F0%259F%2598%258E-%2509smiling-face-with-sunglasses-72dpi-forPersonalUseOnly.gif" />
-
-<!--
-```js
-const Praveen = {
-  summary: "I build websites & web apps with frontend as well as backend",
-  roles: ["Full Stack Developer", "Linux App Developer", "Logical Thinking"],
-  interests: ["Linux", "API", "AIML"],
-  key_values: ["Long tym worker", "collaborative"],
-  type_check: true && "~ 𝚖𝚘𝚗𝚘𝚜𝚙𝚊𝚌𝚎 𝚛𝚞𝚕𝚎𝚜 ~",
-  nickname: "MS" ?? "Praveen",
-};
-```-->
-
-<h3 align="left"> ~ Languages I'm familiar with :</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,html,css,javascript,php&theme=light)](https://skillicons.dev)
-
-<h3 align="left"> ~ Frameworks :</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,vite,jquery,bootstrap,sass,tailwind&theme=light)](https://skillicons.dev)
-
-<h3 align="left"> ~ Tools, Services, Environments and Template Engines used frequently :</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=linux,postman,heroku,git,github,gitlab,githubactions,mysql,mongodb,pug,graphql,rabbitmq,redis,vscode,idea,docker,arduino&perline=5&theme=light)](https://skillicons.dev)
-
-<h3 align="left"> ~ Connect me with :</h3>
-
-<p align="left">
-  <a href="https://www.instagram.com/praveen.ms_13/" >
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-  <a href="https://www.linkedin.com/in/m-s-praveen-kumar-2243b622a/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://discord.com/channels/@me">
-    <img src="https://skillicons.dev/icons?i=discord" />
-  </a>
-  <a href="https://stackoverflow.com/users/18029902/praveen-ms">
-    <img src="https://skillicons.dev/icons?i=stackoverflow" />
-  </a>
-</p>
+    
 
 
