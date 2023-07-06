@@ -8,6 +8,17 @@
 [![Typing SVG](<https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%246333F5&vCenter=true&lines=A+Undergraduate+B.Tech+CSE+Student,;Studying+at+SRM+University(VDP).;A+Web+and+Backend+Developer.;I’ll+never+be+perfect,+but+I+can+be+better.>)](https://git.io/typing-svg)
 </h1>
 
+
+| GitHub Stats                                                                                           | Top Languages                                                                                            |
+|--------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
+| ![Praveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Praveenms13&show_icons=true&theme=neon) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenms13&layout=compact&theme=neon) |
+
+| GitHub Stats                                                                                                   | Profile Details                                                                                               |
+|---------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
+| ![Praveen's Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Praveenms13&theme=2077&utcOffset={utcOffset}) | ![Praveen's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Praveenms13&theme=2077) |
+
+
+
 ## Certifications && Skilled IN
 - Full Stack Web Engineering
 - Advanced Socket Programming
@@ -82,11 +93,4 @@ const Praveen = {
   </a>
 </p>
 
-| GitHub Stats                                                                                           | Top Languages                                                                                            |
-|--------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
-| ![Praveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Praveenms13&show_icons=true&theme=neon) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenms13&layout=compact&theme=neon) |
-
-| GitHub Stats                                                                                                   | Profile Details                                                                                               |
-|---------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
-| ![Praveen's Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Praveenms13&theme=2077&utcOffset={utcOffset}) | ![Praveen's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Praveenms13&theme=2077) |
 
