@@ -1,6 +1,6 @@
 #
 
-<img src="welcome.gif" width="100%" height="300px">
+<img src="banner.png" width="100%" height="300px">
 <a align="center">
 </a>
 <h1 align="center"> Hi! <img  src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" alt="chan" width="30px" height="30px"> I'm M S Praveen Kumar !
