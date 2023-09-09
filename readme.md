@@ -1,6 +1,6 @@
 #
 
-<img src="banner.png" width="100%" height="300px">
+![Github_header](https://user-images.githubusercontent.com/88898454/162613510-d24014b6-b4ea-4f67-ba4a-19b4d956ceab.png)
 <a align="center">
 </a>
 <h1 align="center"> Hi! <img  src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" alt="chan" width="30px" height="30px"> I'm M S Praveen Kumar !
