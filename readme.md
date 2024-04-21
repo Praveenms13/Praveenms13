@@ -18,7 +18,7 @@
 
 <h3 align="left"> ~ Tools, Services, Environments and Template Engines used frequently :</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=linux,postman,heroku,git,github,gitlab,githubactions,mysql,mongodb,pug,graphql,rabbitmq,redis,vscode,idea,docker,arduino&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,postman,heroku,git,github,gitlab,githubactions,mysql,mongodb,pug,graphql,rabbitmq,redis,vscode,idea,docker,arduino,laravel&theme=light)](https://skillicons.dev)
 
 <h3 align="left"> ~ Connect me with :</h3>
 
