@@ -41,7 +41,7 @@
 
 | GitHub Stats                                                                                           | Top Languages                                                                                            |
 |--------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
-| ![Praveen's GitHub stats]([https://github-readme-stats.vercel.app/api?username=Praveenms13&show_icons=true&theme=neon](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Praveenms13&theme=2077)) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenms13&layout=compact&theme=neon) |
+| ![Praveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Praveenms13&show_icons=true&theme=neon) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenms13&layout=compact&theme=neon) |
 
 | GitHub Stats                                                                                                   | Profile Details                                                                                               |
 |---------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
@@ -79,5 +79,4 @@ Test the API With the endpoints available in the repo
  ## PIP Packages :
  - [Media Data Tool - pip install mediadata](https://pypi.org/project/mediadata/1.0.7/) - Completed and released
     
-
 
