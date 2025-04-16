@@ -41,7 +41,7 @@
 
 | GitHub Stats                                                                                           | Top Languages                                                                                            |
 |--------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
-| ![Praveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Praveenms13&show_icons=true&theme=neon) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenms13&layout=compact&theme=neon) |
+| ![Praveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Praveenms13&show_icons=true&theme=neon) | ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Praveenms13&theme=2077) |
 
 | GitHub Stats                                                                                                   | Profile Details                                                                                               |
 |---------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
